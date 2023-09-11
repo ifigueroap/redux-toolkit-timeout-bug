@@ -1,9 +1,9 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'cl.itrend.condor',
-  appName: 'ItrendCL Cóndor',
-  webDir: 'build',
+  appId: "com.myapp.app",
+  appName: "My App",
+  webDir: "build",
   bundledWebRuntime: false,
 };
 
