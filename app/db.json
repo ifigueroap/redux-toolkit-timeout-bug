@@ -1,0 +1,6 @@
+{
+  "things": [
+    { "id": 1, "title": "json-server 1", "author": "typicode 1" },
+    { "id": 2, "title": "json-server 2", "author": "typicode 2" }
+  ]
+}
